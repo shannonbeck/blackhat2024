@@ -1,2 +1,3 @@
 # blackhat2024
-Wireless Power Transfer Student Research Paper
+Wireless Power Transfer Student Research White Paper
+
